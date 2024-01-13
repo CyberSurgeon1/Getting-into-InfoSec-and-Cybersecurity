@@ -33,6 +33,16 @@ Informative Cybersecurity YouTube Channels
   * [Hak5](https://www.youtube.com/user/Hak5Darren/featured) - Hacking tools, guides and concepts.
   * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
   * [bosnianbill](https://www.youtube.com/user/bosnianbill) - lockpicking videos.
+  * [IppSec] (https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Retired HTB box walkthroughs
+  * [VbScrub] (https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ) - HTB walkthroughs, AD exploitation.
+  * [The Cyber Mentor] (https://www.youtube.com/@TCMSecurityAcademy) - Network and WebApp Pentesting.
+  * [David Bombal] (https://www.youtube.com/@davidbombal) - Cisco CCNA Prep, Hacking, OSINT, Machine Learning/AI.
+  * [Network Chuck] (https://www.youtube.com/@NetworkChuck) - Linux, Hacking, Networking, Career guidance.
+  * [John Hammond] (https://www.youtube.com/@_JohnHammond) - Malware analysis, cybercrime, dark web, hacking.
+  * [STÖK] (https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - Bug bounties/Web App Pentesting
+  * [LiveOverflow] (https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Variety of infosec topics
+  * [Cyber Insecurity] (https://www.youtube.com/@CyberInsecurity) - Hacking and career advice.
+  * [Gerald Auger, PhD - Simply Cyber] (https://www.youtube.com/@SimplyCyber) - Current cyber news, hacking, GRC, etc.
   
 Help With Coding
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -44,6 +54,10 @@ Help With Coding
   * [Codeacademy](https://www.codecademy.com/)
   * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
   * [Automate the Boring Stuff (Python)](https://automatetheboringstuff.com/)
+  * [100 Days of Code: The Complete Python Pro Bootcamp] (https://www.udemy.com/course/100-days-of-code/)
+  * [TCM Academy Python 101 for Hackers]
+  * [TCM Academy Python 201 for Hackers]
+  * [TCM Academy Rust 101]
 
 Help With Linux
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -57,6 +71,7 @@ Help With Linux
   * [Linux Fundamentals Part I](https://tryhackme.com/room/linuxfundamentalspart1)
   * [Linux Fundamentals Part II](https://tryhackme.com/room/linuxfundamentalspart2)
   * [Linux Fundamentals Part III](https://tryhackme.com/room/linuxfundamentalspart3) 
+  * [TCM Academy Linux 101]
 
 Web Application Hacking Guides
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -87,7 +102,11 @@ Hacking Books
   * [Violent Python]( https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579/ref=sr_1_1?crid=2COVPNF276816)
   * [The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws]( https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?crid=7OOX2YCQSL1P)
   * [The Hacker Playbook 3: Practical Guide to Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759/ref=sr_1_1?crid=3L6TXCLRK92HM)
-  * [How to Hack Like a Legend] (https://www.amazon.com/Hack-Like-Legend-Sparc-Flow-ebook/dp/B08YJYR4N7/ref=sr_1_1?crid=2GPFM4XLCVLBG&keywords=how+to+hack+like+a+legend&qid=1668654410&s=books&sprefix=how+to+hack+like+a+legend%2Cstripbooks%2C91&sr=1-1)
+  * How to Hack Like a Legend (https://www.amazon.com/Hack-Like-Legend-Sparc-Flow-ebook/dp/B08YJYR4N7/ref=sr_1_1?crid=2GPFM4XLCVLBG&keywords=how+to+hack+like+a+legend&qid=1668654410&s=books&sprefix=how+to+hack+like+a+legend%2Cstripbooks%2C91&sr=1-1)
+  * RTFM: Red Team Field Manual v2 (https://www.amazon.com/RTFM-Red-Team-Field-Manual/dp/1075091837/ref=sr_1_1?crid=25ECFCG3XU7TR&keywords=Red+Team+Field+Manual&qid=1705150145&s=books&sprefix=red+team+field+manual%2Cstripbooks%2C83&sr=1-1)
+  * The Pentester BluePrint: Starting a Career as an Ethical Hacker (https://www.amazon.com/Pentester-BluePrint-Starting-Career-Ethical-ebook/dp/B08M5KWCRR/ref=sr_1_1?crid=1NFOXNR468A3H&keywords=Pentester+blueprint&qid=1705150747&s=books&sprefix=pentester+blueprint%2Cstripbooks%2C90&sr=1-1)
+  * Cybersecurity Career Master Plan: Proven techniques and effective tips to help you advance in your cybersecurity career (https://www.amazon.com/Cybersecurity-Career-Master-Plan-cybersecurity-ebook/dp/B097HSV755/ref=sr_1_18?crid=2NZ17I51E7S69&keywords=cybersecurity+books&qid=1705150866&s=books&sprefix=cybersecu%2Cstripbooks%2C105&sr=1-18)
+
 Pentesting References
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,6 +132,7 @@ Hands-on Training and Practice Exercises
   * [OSCP-like Vulnhub VMs](https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms) - Intentionally vulnerable VMs resembling OSCP.
   * [Over the Wire: Natas](http://overthewire.org/wargames/natas/) - Web application challenges.
   * [Hack the Box](https://www.hackthebox.eu/) - Online pentesting labs with Windows VMs.
+  * [Hack the Box Academy] (https://academy.hackthebox.com/) - Pentesting Pathway (instructional) on Hack the Box
   * [Hack This Site](https://www.hackthissite.org/) - Web application security exercises.
   * [RopeyTasks](https://github.com/iriusrisk/RopeyTasks) - Simple deliberately vulnerable web application.
   * [Railsgoat](https://github.com/OWASP/railsgoat) - A vulnerable version of Rails that follows the OWASP Top 10.
@@ -162,6 +182,7 @@ Cybersecurity Podcasts
   * [CyberHub](https://www.cyberhubpodcast.com/)
   * [Black Hills InfoSec](https://www.blackhillsinfosec.com/podcasts/)
   * [Cybersecurity Heroes](https://cybersecurityheroes.sounder.fm/)
+  * [Cyber Crime Junkies] (https://podcasts.apple.com/us/podcast/cyber-crime-junkies/id1633932941)
 
 
   Detailed GoVanguard Cybersecurity Resources
